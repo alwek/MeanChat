@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "cors": "latest",
+    "express": "latest",
+    "mongoose": "latest",
+    "socket.io": "latest",
+    "socket.io-client": "^1.7.2"
+  }
+}
